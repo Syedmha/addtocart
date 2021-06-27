@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "image": "https://rukminim1.flixcart.com/image/540/648/k0flmkw0/t-shirt/e/d/p/m-18a3089j3008i-united-colors-of-benetton-original-imafk7jqn5yhkyvd.jpeg?q=50",
+        "brand": "UCB",
+        "title": "Red T-Shirt",
+        "price": 250,
+        "size": [
+            "S, M, XL"
+        ]
+    },
+    {
+        "id": 2,
+        "image": "https://rukminim1.flixcart.com/image/540/648/kmax8y80/t-shirt/m/h/u/s-87394-0002-levi-s-original-imagf8jsb2sdy2ba.jpeg?q=50",
+        "brand": "Levis",
+        "title": "White T-Shirt",
+        "price": 350,
+        "size": [
+            "S, M"
+        ]
+    },
+    {
+        "id": 3,
+        "image": "https://rukminim1.flixcart.com/image/540/648/kekadu80-0/t-shirt/e/w/h/xl-jrkbelvrl09-jorkk-original-imafv84yz9gkwya2.jpeg?q=50",
+        "brand": "CK",
+        "title": "Graphic T-Shirt",
+        "price": 450,
+        "size": [
+            "M, L"
+        ]
+    },
+    {
+        "id": 4,
+        "image": "https://rukminim1.flixcart.com/image/540/648/kjn6qvk0/top/f/h/q/s-58769-0010-levi-s-original-imafz4tenuhccsdp.jpeg?q=50",
+        "brand": "CK",
+        "title": "Black Shirt",
+        "price": 200,
+        "size": [
+            "S, XL"
+        ]
+    },
+    {
+        "id": 5,
+        "image": "https://rukminim1.flixcart.com/image/540/648/knqd3m80/t-shirt/6/g/m/s-74744-0002-levi-s-original-imag2ccenkfshcnw.jpeg?q=50",
+        "brand": "Levis",
+        "title": "Black T-Shirt",
+        "price": 300,
+        "size": [
+            "S, M"
+        ]
+    },
+    {
+        "id": 6,
+        "image": "https://rukminim1.flixcart.com/image/540/648/jvfk58w0/t-shirt/e/c/z/s-cbb-84d-roadster-original-imafgckxtchcy4pr.jpeg?q=50",
+        "brand": "UCB",
+        "title": "T-Shirt",
+        "price": 400,
+        "size": [
+            "S, L"
+        ]
+    }
+]

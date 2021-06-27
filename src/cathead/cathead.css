@@ -1,0 +1,11 @@
+:root {
+    --background: #f1f3f6;
+    --primary: #2874f0;
+    --white: #ffffff;
+   }
+
+.cathead-container {
+    background-color: var(--white);
+    margin-top: 0;
+    padding: 22px;
+   }
